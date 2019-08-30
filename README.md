@@ -6,6 +6,8 @@ Learn more at https://aframe.io/.
 
 Try it at https://code004accepted.github.io/web-vr.
 
+Use W,A,S,D to move.
+
 Source Code:
 
 ```html
